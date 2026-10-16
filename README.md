@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=25&duration=4000&pause=300&color=3E0417&width=800&lines=Hi%2C+I%E2%80%99m+Saraa;About+me+%E2%9C%A8;%F0%9F%93%9A+Studying+AI+%26+Big+Data+Engineering;%F0%9F%8E%A7+Horror+junkie+%26+music+addict;%E2%99%9F%EF%B8%8F+Happiest+with+a+good+book+or+a+game+of+chess;%E2%98%95+Cannot+function+without+coffee)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=25&duration=4000&pause=300&color=3E0417&center=true&width=1000&lines=Hi%2C+I%E2%80%99m+Saraa;About+me+%E2%9C%A8;%F0%9F%93%9A+Studying+AI+%26+Big+Data+Engineering;%F0%9F%8E%A7+Art+lover+%26+music+addict;%E2%99%9F%EF%B8%8F+I+also+like+reading+%26+playing+chess;%E2%98%95+Cannot+function+without+coffee)](https://git.io/typing-svg)
 
 ## 🛠️ Skills & Tools
 
