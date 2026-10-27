@@ -11,10 +11,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height="28" alt="Python" />
   <img src="https://img.shields.io/badge/Java-E76F00?style=plastic" height="28" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" height="28" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" height="28" alt="C" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="28" alt="SQL" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white" height="28" alt="Bash" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" height="28" alt="PHP" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white" height="28" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white" height="28" alt="Swift" />
 </p>
 
 ### AI & Data
